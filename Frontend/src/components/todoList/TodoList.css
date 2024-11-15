@@ -1,0 +1,28 @@
+body{
+    width: 100vw;
+    height: 100vh;
+}
+.main-wrapper{
+    width: 100%;
+    height: 100%;
+}
+
+.main-wrapper h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    text-align: center;
+}
+
+.todo-list {
+    display: flex;
+    justify-content: center;
+}
+
+.list-group {
+    width: 50%;
+}
+
+.btn-add {
+    align-self: center;
+    width: 200px;
+}
